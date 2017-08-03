@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "algoliasearch": "^3.24.3",
     "axios": "^0.16.2",
     "firebase": "^4.2.0",
     "react": "^15.6.1",
